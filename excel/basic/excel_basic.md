@@ -93,7 +93,7 @@ If you had to compare the performance of two sales reps in 2019, what kind of ch
 
 You are reviewing four tenders from potential suppliers and will accept them if the Tender score is 65% or above, as shown in cell E2. What is the formula used in cell C2, which can be copied down to cell C3 through C5, to generate the results shown below?
 
-![question](images/Picture10.png)
+![question](images/Picture10.jpg)
 
  - [ ] =IF(B2>=$E$2,"Accept","Reject")
  - [ ] =IF(B2>=E$2,"Accept","Reject")
@@ -107,7 +107,7 @@ You are updating a master spreadsheet for the sales team and want it to automati
 So you don't have to manually update two spreadsheets, how would you do this?
 
  - [ ] Copy and paste all of the data from one to another 
- - [ ] Link the spreadsheets together
+ - [x] Link the spreadsheets together
  - [ ] This is not yet an option in Excel
  - [ ] =Copy function as option
 
@@ -116,6 +116,6 @@ So you don't have to manually update two spreadsheets, how would you do this?
 What does 'protect worksheet' do in Excel?
 
  - [ ] Only allows users with a password to view the sheet
- - [ ] Protects the sheet and cells from being changed or formatted
+ - [x] Protects the sheet and cells from being changed or formatted
  - [ ] Hides certain data in the worksheet
  - [ ] You cannot delete the worksheet
